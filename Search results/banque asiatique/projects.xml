@@ -1,0 +1,865 @@
+<filtered_by_word_banque_asiatique><project>
+    <projectNumber>CA-3-D000389001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Programme de développement de l'enseignement primaire III - Suivi relatif aux finances et résultats</title>
+    <description>Ce projet vise à renforcer la capacité de gestion du gouvernement du Bangladesh sur le plan des finances, du risque fiduciaire et des résultats dans le cadre de la troisième phase du Programme de développement de l'enseignement primaire. Il s'agit d'un programme échelonné sur cinq ans qui s'adresse aux élèves de la première à la cinquième année du primaire et qui bénéficie du soutien du Canada. Grâce à sa capacité de gestion améliorée, le gouvernement du Bangladesh est de mesure de veiller à ce que les fonds destinés au Programme soient utilisés de façon efficace pour atteindre le résultat escompté : faire en sorte que les filles et les garçons dans tous les districts du Bangladesh aient accès à une éducation de meilleure qualité. Le Canada a par ailleurs financé la deuxième phase du Programme.  Parmi les activités du projet : la fourniture d'une assistance technique pour procéder aux examens fiduciaires trimestriels et annuels de la troisième phase du Programme et la réalisation d'autres activités visant à améliorer la gestion fiduciaire et financière et le suivi des résultats, au besoin.</description>
+    <status>Actif</status>
+    <start>2014-01-30T00:00:00</start>
+    <end>2017-12-31T00:00:00</end>
+    <countries>
+      <country>Bangladesh 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Politique de l'éducation et gestion administrative 100,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>1200000.01</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Le résultat intermédiaire escompté de ce projet est : le renforcement des systèmes du gouvernement du Bangladesh en matière de gestion des finances publiques et d'établissement de rapports dans le domaine de l'enseignement primaire.</expectedResults>
+    <resultsAchieved />
+    <aidType>Interventions de type projet</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>OGM Indo-Pacifique</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2013-04-01T00:00:00" endDate="2014-03-31T00:00:00" valueDate="2014-01-30T00:00:00">500000.00</budget>
+      <budget budgetType="Original" startDate="2014-04-01T00:00:00" endDate="2015-03-31T00:00:00" valueDate="2014-01-30T00:00:00">500000.00</budget>
+      <budget budgetType="Original" startDate="2015-04-01T00:00:00" endDate="2016-03-31T00:00:00" valueDate="2014-01-30T00:00:00">200000.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2014-01-30T00:00:00">0.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="1185241" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">23.7104 90.40744</location>
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2013200180</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2014-01-30T00:00:00" valueDate="2014-01-30T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">1200000.01</transaction>
+      <transaction transactionDate="2014-02-04T00:00:00" valueDate="2014-02-04T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">500000.00</transaction>
+      <transaction transactionDate="2015-03-12T00:00:00" valueDate="2015-03-12T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">500000.00</transaction>
+      <transaction transactionDate="2016-03-09T00:00:00" valueDate="2016-03-09T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">200000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P007520001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Développement du partenariat public-privé au Vietnam</title>
+    <description>Ce projet vise à améliorer le bien-être économique des Vietnamiens, notamment des femmes et d'autres groupes vulnérables, au Vietnam. Après deux décennies de forte croissance économique et de gains en matière de réduction de la pauvreté, le Vietnam doit améliorer et développer ses infrastructures tout en assurant sa durabilité environnementale et ses engagements en matière de changement climatique. Le Global Infrastructure Hub estime que le Vietnam devrait investir 110 milliards USD entre 2021 et 2025 dans les infrastructures pour atteindre ses objectifs de développement durable, alors que sa capacité actuelle de financement public n'est que de 15 à 18 milliards USD par an. Le gouvernement doit attirer beaucoup plus d'investissements de capitaux privés pour soutenir le développement durable. Le gouvernement a adopté sa toute première loi sur les partenariats public-privé (PPP) en 2020 pour remédier aux incohérences du cadre réglementaire, normaliser les pratiques de mise en œuvre des PPP et encourager la confiance des investisseurs du secteur privé au Vietnam. Ce projet s'appuie sur cet élan réglementaire pour améliorer l'environnement favorable aux PPP au Vietnam. Il renforce les connaissances et les compétences des fonctionnaires, notamment en ce qui concerne l'évaluation du genre et de la durabilité environnementale/du changement climatique dans les infrastructures planifiées, le développement de projets PPP bancables, ainsi que la gouvernance, la politique et la coordination du secteur des PPP. Les activités de ce projet comprennent : 1) la réalisation d'un examen analytique du plan d'investissement à moyen terme 2021-2025 du gouvernement pour les projets de PPP afin d'identifier les candidats solides pour les appels d'offres publics et de préparer une étude de faisabilité pour un projet de PPP viable; 2) l'étude des besoins des femmes et du développement de l'infrastructure au Vietnam et l'évaluation de l'écart entre les sexes dans les opérations d'une agence gouvernementale sélectionnée; 3) la préparation du programme et le recrutement de candidates pour les programmes exécutifs et de stages pour les femmes; 4) la fourniture de formations et d'ateliers sur le renforcement des compétences pour évaluer les propositions de PPP; 5) la fourniture de séminaires, de conseils et d'un soutien politique au gouvernement vietnamien sur la mise en œuvre de la loi sur les PPP. Ce projet devrait toucher les fonctionnaires du gouvernement vietnamien responsables du travail en matière de partenariats public-privé (PPP) aux niveaux municipal, provincial et national, les fonctionnaires engagés dans la politique de PPP et la coordination sectorielle, et environ 60 femmes sélectionnées pour participer aux programmes de développement du leadership et de stages.</description>
+    <status>Actif</status>
+    <start>2021-03-25T00:00:00</start>
+    <end>2026-06-09T00:00:00</end>
+    <countries>
+      <country>Viêt-Nam 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Politiques publiques et gestion administrative 35,00%</DACSectors>
+      <DACSectors>Organisations et mouvements de défense des droits des femmes et institutions gouvernementales 20,00%</DACSectors>
+      <DACSectors>Services et institutions de soutien commerciaux 35,00%</DACSectors>
+      <DACSectors>Politique de l'environnement et gestion administrative 10,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>3500000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) l'amélioration des capacités du gouvernement à développer et à mettre en œuvre des cadres réglementaires pour accroître les investissements du secteur privé dans les partenariats public-privé en matière d'infrastructures, 2) l'amélioration de l'environnement favorable à l'action climatique et à l'égalité des sexes pour la mise en œuvre des partenariats public-privé. </expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu'en mars 2022 : 1) la tenue de discussions avec le ministère de la Planification et de l’Investissement sur la préparation de cadres de gestion des circulaires sur les partenariats public-privé (PPP); 2) l’élaboration d’un programme de stage et de formation des cadres pour les femmes dans le secteur des infrastructures; 3) l’examen des projets vietnamiens afin d’identifier des candidats potentiels pour des propositions de PPP.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>OGM Indo-Pacifique</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="1">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="1">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2021-03-25T00:00:00">150000.00</budget>
+      <budget budgetType="Original" startDate="2021-04-01T00:00:00" endDate="2022-03-31T00:00:00" valueDate="2021-03-25T00:00:00">320000.00</budget>
+      <budget budgetType="Original" startDate="2022-04-01T00:00:00" endDate="2023-03-31T00:00:00" valueDate="2021-03-25T00:00:00">2055479.00</budget>
+      <budget budgetType="Original" startDate="2023-04-01T00:00:00" endDate="2024-03-31T00:00:00" valueDate="2021-03-25T00:00:00">974521.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2021200094</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2021-03-25T00:00:00" valueDate="2021-03-25T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">3500000.00</transaction>
+      <transaction transactionDate="2021-03-29T00:00:00" valueDate="2021-03-29T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">1763000.00</transaction>
+      <transaction transactionDate="2023-03-16T00:00:00" valueDate="2023-03-16T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">500000.00</transaction>
+      <transaction transactionDate="2024-02-14T00:00:00" valueDate="2024-02-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">619000.00</transaction>
+      <transaction transactionDate="2024-12-11T00:00:00" valueDate="2024-12-11T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">618000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-M013850002</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Fonds climatique canadien pour le secteur privé en Asie – Assistance technique</title>
+    <description>Cette initiative fait partie du Fonds climatique canadien pour le secteur privé en Asie, qui finance des projets du secteur privé en Asie et dans le Pacifique qui aident des pays à réduire leur empreinte carbone et à s’adapter aux effets négatifs des changements climatiques. Au cours de la période d’investissement, qui s’échelonne sur quatre ans, le volet d’assistance technique du Fonds fournit une aide pour la sélection de projets du secteur privé écologiques ou de projets du secteur public qui établissent des conditions favorables aux investissements du secteur privé. À l’appui des objectifs du Fonds, le volet d’assistance technique vise à favoriser la mise en place de nouvelles technologies et d’activités qui permettent la réforme des politiques et des institutions, y compris l’établissement de cadres réglementaires qui encouragent l’atténuation des changements climatiques ainsi que l’adaptation à ces changements. Ainsi, l’initiative offre un financement pour soutenir l’assistance technique à la préparation de projets, à l’élaboration de politiques et à la prestation de services consultatifs ainsi qu’au renforcement des capacités, y compris l’intégration des principales d’égalité entre les sexes dans les projets du Fonds.  La contribution du Canada au Fonds devrait permettre au secteur privé de faire des investissements pouvant atteindre 300 millions de dollars américains pendant le cycle de vie du Fonds, qui est de 24 ans, et contribuer à réduire considérablement les émissions de gaz à effet de serre (jusqu’à 750 000 tonnes) par année.</description>
+    <status>Actif</status>
+    <start>2013-03-26T00:00:00</start>
+    <end>2037-03-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Politique de l'environnement et gestion administrative 100,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>7392968.01</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Parmi les résultats intermédiaires escomptés dans le cadre de ce projet se trouvent l’augmentation des mesures d’atténuation mises en œuvre relativement aux changements climatiques et la réduction de la vulnérabilité aux effets néfastes des changements climatiques.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu'en décembre 2023 grâce à 14 projets financés par des subventions d’assistance technique : 1) au Bhoutan : le projet de chaîne de valeur résiliente face aux changements climatiques dans le secteur de la production de noisettes (Climate-Resilient Hazelnut Value Chain project) a permis de soutenir 1 908 agriculteurs, dont plus de 1 169 femmes, dans l’application d’une série de pratiques favorisant la résilience ou l’adaptation face aux changements climatiques dans le secteur de la culture de la noisette; 2) en Indonésie: en Papouasie–Nouvelle-Guinée, au Timor oriental et au Vietnam : le projet de chaîne de valeur inclusive, durable et connectée dans le secteur du café d’Olam International Limited (Olam International Limited Inclusive Sustainable and Connected Coffee Value Chain project) a permis de promouvoir des chaînes de valeur agricoles inclusives et durables; il s’agissait, notamment, de former environ 20 000 petits producteurs de café à éviter la déforestation et à accroître leur productivité, grâce à des pratiques agricoles intelligentes face au climat; 3) en Mongolie : le projet de centrale solaire photovoltaïque Sermsang Khushig Khundii a permis d’aider à la préparation de rapports techniques, environnementaux, sociaux et juridiques de vérification préalable dans le cadre de ce même projet; ce dernier impliquait la construction, l’exploitation et l’entretien d’une centrale solaire de 15 mégawatts et de ses installations connexes; 4) aux Samoa : le projet de développement d’un producteur indépendant d’énergie solaire (Development of Solar Power Independent Power Producer) a permis d’aider à mener les vérifications préalables techniques, juridiques, environnementales et sociales nécessaires au financement d’une extension de 1,8 MW d’un système de production d’électricité photovoltaïque existant de 2,2 MW raccordé au réseau, sur l’île d’Upolu; 5) au Sri Lanka : le projet a renforcé les capacités des producteurs de légumes et de fruits en matière de résilience climatique et d’agriculture biologique, qui vise à former 2 000 producteurs de légumes et de fruits, dont 30 % de femmes, aux pratiques exemplaires dans le domaine de la production de légumes et de fruits biologique et résiliente. Ceci, face aux changements climatiques, ainsi qu’à la littératie financière fonctionnelle.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Pré-PPA</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="0">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="2">Changement climatique</policyMarker>
+      <policyMarker level="1">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2012-04-01T00:00:00" endDate="2013-03-31T00:00:00" valueDate="2013-03-26T00:00:00">7392968.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2013-03-26T00:00:00">0.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2013200284</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-M013850001</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2013-03-26T00:00:00" valueDate="2013-03-26T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">7392968.01</transaction>
+      <transaction transactionDate="2013-03-28T00:00:00" valueDate="2013-03-28T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">7392968.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-D003678001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Résilience aux changements climatiques et aux désastres naturels au Myanmar</title>
+    <description>Phase initiale (2017-2021) : Ce projet d’assistance technique aide les membres de la communauté, en particulier les agricultrices, à subvenir à leurs besoins quotidiens grâce au travail contre rémunération dans les communes les plus vulnérables des États de Kachin, Kayin, Rakhine et Shan. Cette phase du projet a contribué aux éléments suivants : 1) des initiatives de construction d’urgence pour les ménages dans les communautés vulnérables aux catastrophes et aux effets des changements climatiques; 2) la réhabilitation des communautés et de l’agriculture pour accroître la résilience aux risques naturels et aux effets des changements climatiques; 3) des services de conseils techniques pour aider les participants à s’adapter aux changements climatiques et/ou aux risques induits par le climat, tels que i) des pratiques agricoles durables et intelligentes face au climat; ii) une meilleure adaptation des pratiques agroforestières dans les zones à forte déforestation, ainsi qu’une formation pour les femmes afin de renforcer leurs capacités de leadership et d’améliorer leurs compétences agricoles. Des actifs cibles ont été construits et/ou réhabilités et sont communautaires et à petite échelle, tels que les canaux d’irrigation et de drainage, les digues de protection contre les inondations, les étangs, la gestion des terres agricoles en terrasses, les réservoirs de collecte des eaux de pluie et les routes dans les exploitations. Plus de 25 000 femmes et hommes devraient disposer des outils nécessaires pour faire face aux effets des changements climatiques et des catastrophes naturelles, ce qui bénéficiera à quelque 300 000 personnes dans 300 communautés.  Le projet est resté inactif pendant plus d’un an en raison de l’instabilité dans le pays de mise en œuvre.  Phase d’extension (2022-2024) : Le projet a été remanié en 2022 afin d’aider 35 500 ménages et 177 500 membres de la communauté, en particulier des agricultrices, à subvenir à leurs besoins quotidiens. Ces résultats sont obtenus par un travail rémunéré en espèces dans le cadre des activités de création d’actifs et de moyens de subsistance du Programme alimentaire mondial (PAM) dans les communautés ciblées. La collaboration avec le PAM vise à accroître la résilience aux risques naturels et aux effets des changements climatiques.</description>
+    <status>Actif</status>
+    <start>2017-03-23T00:00:00</start>
+    <end>2025-06-30T00:00:00</end>
+    <countries>
+      <country>Myanmar 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Participation démocratique et société civile 16,00%</DACSectors>
+      <DACSectors>Organisations et mouvements de défense des droits des femmes et institutions gouvernementales 24,00%</DACSectors>
+      <DACSectors>Intermédiaires financiers officiels 1,00%</DACSectors>
+      <DACSectors>Intermédiaires financiers du secteur informel et semi-formel 3,00%</DACSectors>
+      <DACSectors>Éducation/formation, banque et services financiers 3,00%</DACSectors>
+      <DACSectors>Développement agricole alternatif 28,00%</DACSectors>
+      <DACSectors>Politique de l'environnement et gestion administrative 10,00%</DACSectors>
+      <DACSectors>Éducation et formation environnementales 15,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>10000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Phase initiale (2017-2021) : Les résultats attendus de cette phase du projet sont les suivants : 1) atténuation des effets négatifs des chocs sur le bien-être et les moyens de subsistance des personnes vulnérables; 2) renforcement des services de santé essentiels pour les populations cibles; 3) satisfaction des besoins alimentaires et nutritionnels essentiels; 4) satisfaction des besoins de subsistance des ménages et renforcement des actifs communautaires résistants au climat et aux catastrophes.  Phase d’extension (2022-2024) : Les résultats attendus de cette phase du projet sont les suivants : 1) l’accès aux programmes « Argent contre travail » a été élargi à 35 500 ménages (177 500 personnes, dont 71 % de femmes); 2) les femmes ont été encouragées à occuper 40 % des postes de direction dans les comités de gestion des projets; 3) la construction et le rétablissement de 628 ressources rurales et agricoles ont été assurées.</expectedResults>
+    <resultsAchieved>Phase initiale (2017-2021) : Parmi les résultats obtenus jusqu’en septembre 2021 : 1) lancement réussi de la plateforme unifiée du Myanmar pour l’application des risques de catastrophe, le portail MUDRA (Myanmar Unified platform for Disaster Risk Application), le tout premier portail de modélisation des risques de catastrophe; 2) série de formations et d’ateliers organisée afin d’améliorer et intégrer la compréhension de la gestion des risques de catastrophe et de l’adaptation aux changements climatiques; 3) plan de développement des capacités élaboré pour améliorer l’accès des agriculteurs aux informations agroclimatiques dans la région d’Ayeyarwady; et 4) soutien fourni à la planification du développement au niveau des villages, en intégrant des dimensions telles que le climat, les risques de catastrophe et le genre.  Phase d’extension (2022-2024) : À venir en 2023-2024.</resultsAchieved>
+    <aidType>Interventions de type projet</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>OGM Indo-Pacifique</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="1">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="1">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="2">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2016-04-01T00:00:00" endDate="2017-03-31T00:00:00" valueDate="2017-03-23T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2017-03-23T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2018-04-01T00:00:00" endDate="2019-03-31T00:00:00" valueDate="2017-03-23T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2019-04-01T00:00:00" endDate="2020-03-31T00:00:00" valueDate="2017-03-23T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2017-03-23T00:00:00">2000000.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="1327865" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326" />
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2016200575</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002465" city="Manila                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2017-03-23T00:00:00" valueDate="2017-03-23T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">10000000.00</transaction>
+      <transaction transactionDate="2017-03-24T00:00:00" valueDate="2017-03-24T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2018-03-14T00:00:00" valueDate="2018-03-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2018-11-14T00:00:00" valueDate="2018-11-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2019-04-23T00:00:00" valueDate="2019-04-23T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">1500000.00</transaction>
+      <transaction transactionDate="2020-08-05T00:00:00" valueDate="2020-08-05T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2500000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-D003150001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Appui au programme d’aide à l’emploi JobStart aux Philippines</title>
+    <description>Ce projet vise à mettre sur pied un programme national d’aide à l’emploi, appelé JobStart, aux Philippines. Au moins 24?000 jeunes (dont 60 % de jeunes femmes) auront accès à de la formation en compétences de la vie courante liées à l’emploi (y compris en santé reproductive) et à une expérience en milieu de travail, notamment axées sur les femmes, ce qui leur permettra d’accroître leurs chances de trouver un emploi décent et de longue durée. Aux Philippines, un jeune sur quatre est sans emploi et n’est ni aux études ni en formation, et ce taux est plus élevé chez les jeunes femmes et les jeunes provenant de familles à faible revenu. Le programme JobStart se fonde sur la collaboration avec le secteur privé pour aider les jeunes à se préparer à occuper un emploi. Il est essentiel de fournir aux jeunes des emplois décents afin de réduire les inégalités entre les genres et la pauvreté. En aidant les jeunes à devenir des membres productifs de la société grâce à JobStart et à d’autres programmes nationaux visant à réduire le taux de fécondité du pays, les Philippines ont la possibilité de tirer parti de leur jeune population. Le programme JobStart cadre avec le Programme de développement durable à l’horizon 2030 (Objectif de développement durable no 8) et l’objectif du gouvernement des Philippines de réduire la pauvreté. Ce projet avait pour objectif de déboucher sur un programme entièrement financé par le gouvernement des Philippines à partir de 2020 et prend appui sur le projet pilote (2014 2016) de JobStart mené à bien par Affaires mondiales Canada et administré conjointement avec la Banque asiatique de développement.</description>
+    <status>Actif</status>
+    <start>2017-02-03T00:00:00</start>
+    <end>2022-03-31T00:00:00</end>
+    <countries>
+      <country>Philippines 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Éducation pour une meilleure qualité de vie pour les jeunes et les adultes 35,00%</DACSectors>
+      <DACSectors>Formation professionnelle 30,00%</DACSectors>
+      <DACSectors>Formation de personnel en matière de population et de santé et fertilité 5,00%</DACSectors>
+      <DACSectors>Politique de l'emploi et gestion administrative 30,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>10000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet sont les suivants : 1) l’offre de services améliorés et adaptés aux jeunes, en particulier aux femmes, en matière de soutien à l’emploi de la part du ministère du Travail et de l’Emploi (Department of Labor and Employment [DOLE]) et des bureaux publics des services d’emploi (Public Employment Service Office [PESO]) dans 1100 administrations locales ciblées aux Philippines; 2) l’accroissement de l’employabilité des jeunes, en particulier des femmes, dans 1200 administrations locales ciblées aux Philippines.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu’à la fin du projet (mars 2022) : 1) 28?819 jeunes (dont 56 % de femmes) ont eu accès aux services du programme JobStart, notamment de la formation en compétences de la vie courante liée à l’emploi adaptée aux femmes, de même que de l’expérience en milieu de travail; 11?780 stagiaires (dont 65 % de femmes) ont effectué le cycle complet de formation du programme JobStart, dont 62 % ont obtenu des stages à l’obtention de leur diplôme; 19?060 jeunes (dont 57 % de femmes) ont obtenu leur diplôme du volet de formation en compétences de la vie courante, ce qui représente un taux de diplomation de 94 %; 2) 51 administrations locales ont mis en œuvre le programme JobStart; 3) 44 activités de formation et d’amélioration des capacités ont été offertes au personnel de l’unité de JobStart; 4) 806 membres formés du personnel de l’unité de Jobstart ont fourni des services à l’administration centrale, aux bureaux régionaux et aux bureaux locaux du DOLE; 5) 43 activités de formation et d’amélioration des capacités ont été menées à l’intention du personnel du PESO; 6) 707 membres formés du personnel du PESO ont dispensé une formation sur les compétences de la vie courante; 7) 122 membres formés du personnel du PESO ont fourni des services d’orientation et d’encadrement professionnels.</resultsAchieved>
+    <aidType>Interventions de type projet</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>OGM Indo-Pacifique</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="1">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="2">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2016-04-01T00:00:00" endDate="2017-03-31T00:00:00" valueDate="2017-02-03T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2017-02-03T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2018-04-01T00:00:00" endDate="2019-03-31T00:00:00" valueDate="2017-02-03T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2019-04-01T00:00:00" endDate="2020-03-31T00:00:00" valueDate="2017-02-03T00:00:00">2000000.00</budget>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2017-02-03T00:00:00">2000000.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="1694008" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326" />
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2016200094</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2017-02-03T00:00:00" valueDate="2017-02-03T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">10000000.00</transaction>
+      <transaction transactionDate="2017-02-06T00:00:00" valueDate="2017-02-06T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2017-12-07T00:00:00" valueDate="2017-12-07T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2019-03-12T00:00:00" valueDate="2019-03-12T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+      <transaction transactionDate="2020-02-06T00:00:00" valueDate="2020-02-06T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2500000.00</transaction>
+      <transaction transactionDate="2021-02-14T00:00:00" valueDate="2021-02-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">1500000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P012801002</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Fonds canadien pour le climat et la nature pour le secteur privé en Asie - Assistance technique</title>
+    <description>Ce mécanisme d’assistance technique appuie le Fonds canadien pour le climat et la nature pour le secteur privé en Asie (CANPA). Le CANPA est un partenariat entre le gouvernement du Canada et la Banque asiatique de développement (BAD) visant à aider les pays en développement de l’Indo-Pacifique à faire la transition vers des économies inclusives, à faibles émissions et résilientes face au climat. L’assistance technique permet de faire progresser les principaux objectifs du CANPA en matière d’adaptation aux changements climatiques, de solutions fondées sur la nature et d’égalité des genres. Pour ce faire, l’assistance technique est fournie pour appuyer la préparation et la mise en œuvre de projets qui sont admissibles au financement à des conditions de faveur du CANPA ou qui en bénéficient. L’assistance technique soutient également la recherche et la diffusion des connaissances, les conseils stratégiques et le renforcement des capacités afin d’améliorer les conditions du marché pour les investissements du secteur privé dans les initiatives climatiques qui favorisent l’égalité des genres dans la région Indo-Pacifique.</description>
+    <status>Actif</status>
+    <start>2024-03-12T00:00:00</start>
+    <end>2036-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Approvisionnement en eau - systèmes à grande échelle 7,00%</DACSectors>
+      <DACSectors>Production d'énergie, sources renouvelables - multiples technologies 37,00%</DACSectors>
+      <DACSectors>Transport et distribution d'électricité 9,00%</DACSectors>
+      <DACSectors>Infrastructures électriques à l'usage de la mobilité 9,00%</DACSectors>
+      <DACSectors>Intermédiaires financiers officiels 7,00%</DACSectors>
+      <DACSectors>Services et institutions de soutien commerciaux 4,00%</DACSectors>
+      <DACSectors>Politique agricole et gestion administrative 5,00%</DACSectors>
+      <DACSectors>Ressources en terres cultivables 3,00%</DACSectors>
+      <DACSectors>Produits à usage agricole 10,00%</DACSectors>
+      <DACSectors>Développement de la pêche 3,00%</DACSectors>
+      <DACSectors>Politique de l'environnement et gestion administrative 6,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>10000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults> Les résultats escomptés de ce projet comprennent : 1) utilisation accrue des énergies renouvelables et des solutions d’infrastructure à faibles émissions de carbone par les entreprises et les particuliers, en particulier les femmes, pour améliorer les mesures d’atténuation des changements climatiques qui sont respectueuses de la nature dans les pays où le projet est mené; 2) amélioration de la gestion du capital naturel et de la biodiversité par les entreprises et les particuliers, en particulier les femmes, pour améliorer les mesures d’atténuation et d’adaptation à l’égard des changements climatiques qui sont respectueuses de la nature dans les pays où le projet est mené; 3) augmentation de la qualité des emplois destinés aux femmes créés par les entreprises ayant accès à du financement climatique dans le cadre du Fonds; 4) renforcement de la résilience des femmes et des filles aux chocs causés par les changements climatiques.</expectedResults>
+    <resultsAchieved />
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="2">Changement climatique</policyMarker>
+      <policyMarker level="1">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+      <region>Océanie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2024-04-01T00:00:00" endDate="2025-03-31T00:00:00" valueDate="2024-03-12T00:00:00">10000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2024200611</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P012801002</relatedActivity>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P012801001</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2024-03-12T00:00:00" valueDate="2024-03-12T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">10000000.00</transaction>
+      <transaction transactionDate="2024-07-15T00:00:00" valueDate="2024-07-15T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">10000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-D001984001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Mécanisme de préparation des projets en Asie-Pacifique</title>
+    <description>Le Mécanisme de préparation des projets en Asie Pacifique (AP3F) est un mécanisme multidonateurs de 73 millions de dollars, géré par le Bureau des partenariats entre les secteurs public et privé (OPPP) de la Banque asiatique de développement (BAD), et conçu pour renforcer les capacités des pays en développement d’Asie afin de créer des partenariats public-privé (PPP) pour les infrastructures. L’AP3F donne la priorité aux demandes d’assistance technique qui contribuent à la résilience climatique, au développement durable et à l’intégration économique régionale, ce qui renforce les réformes habilitantes et le développement des capacités gouvernementales. Le mécanisme est cofinancé par la BAD (10 millions de dollars américains), par l’Australie (10 millions de dollars australiens) et le Japon (40 millions de dollars américains).  Les activités de ce projet comprennent : 1) fourniture d’une assistance technique à tout gouvernement d’un pays en développement membre de la BAD pour soutenir les services consultatifs financiers, juridiques et techniques nécessaires à la préparation et à la structure des transactions de PPP. Il s’agit notamment de la définition du champ d’application, de la faisabilité, de la préparation, de la structure et de l’appel d’offres des projets; 2) soutien aux réformes juridiques et réglementaires qui facilitent les investissements du secteur privé dans les projets d’infrastructure.</description>
+    <status>Actif</status>
+    <start>2015-03-27T00:00:00</start>
+    <end>2025-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Politique du secteur de l’eau et gestion administrative 18,00%</DACSectors>
+      <DACSectors>Politiques publiques et gestion administrative 1,00%</DACSectors>
+      <DACSectors>Gestion des finances publiques 2,50%</DACSectors>
+      <DACSectors>Politique des transports et gestion administrative 29,00%</DACSectors>
+      <DACSectors>Télécommunications 4,50%</DACSectors>
+      <DACSectors>Politique énergétique et gestion administrative 22,50%</DACSectors>
+      <DACSectors>Politique des finances et gestion administrative 9,00%</DACSectors>
+      <DACSectors>Services et institutions de soutien commerciaux 11,50%</DACSectors>
+      <DACSectors>Développement et gestion urbaine 2,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>20000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) adoption, par les gouvernements de la région Asie-Pacifique, de pratiques améliorées (en matière de politiques, législatives, réglementaires et institutionnelles) pour les projets d’infrastructure des PPP menés par les gouvernements dans la région de l’Asie-Pacifique; 2) multiplication des possibilités d’investissement dans des projets d’infrastructure pour des investisseurs potentiels dans la région de l’Asie-Pacifique.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu'en mars 2023 : 1) approuvé 70 assistances techniques et mis sur le marché huit projets de partenariat public-privé (PPP) soutenus (clôtures financières et clôtures commerciales); 2) fourni des conseils sur les pratiques politiques, législatives, réglementaires et institutionnelles à 23 pays membres en développement (PMD), et un soutien au développement des capacités à 15 PMD, dont neuf unités et agences PPP; 3) catalysé 1,37 milliard de dollars américains (1,84 milliard de dollars canadiens) d'investissements commerciaux dans des projets d'infrastructure PPP prioritaires, dont 41,2 millions de dollars américains (5,48 millions de dollars canadiens) sont des financements climatiques.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>OGM Indo-Pacifique</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="0">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2014-04-01T00:00:00" endDate="2015-03-31T00:00:00" valueDate="2015-03-27T00:00:00">8000000.00</budget>
+      <budget budgetType="Original" startDate="2015-04-01T00:00:00" endDate="2016-03-31T00:00:00" valueDate="2015-03-27T00:00:00">6000000.00</budget>
+      <budget budgetType="Original" startDate="2016-04-01T00:00:00" endDate="2017-03-31T00:00:00" valueDate="2015-03-27T00:00:00">4000000.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2015-03-27T00:00:00">2000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2015200228</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2015-03-27T00:00:00" valueDate="2015-03-27T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">20000000.00</transaction>
+      <transaction transactionDate="2015-03-30T00:00:00" valueDate="2015-03-30T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">8000000.00</transaction>
+      <transaction transactionDate="2016-01-27T00:00:00" valueDate="2016-01-27T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">6000000.00</transaction>
+      <transaction transactionDate="2016-12-12T00:00:00" valueDate="2016-12-12T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">4000000.00</transaction>
+      <transaction transactionDate="2018-03-15T00:00:00" valueDate="2018-03-15T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">2000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P005182001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Initiative de financement pour les femmes entrepreneurs</title>
+    <description>Ce projet soutient l’Initiative de financement pour les femmes entrepreneurs (We-Fi). Le mandat de We-Fi est de réaliser le potentiel des petites et moyennes entreprises (PME) appartenant à des femmes ou dirigées par des femmes dans des pays en développement. La priorité est accordée à la collaboration avec de telles entreprises dans les pays à faible revenu et les pays aux prises avec la fragilité, les conflits et la violence. L’objectif est d’y parvenir en agissant durablement sur les contraintes auxquelles ces femmes sont confrontées et en réduisant le déficit de financement de ces PME. We-Fi permet aux PME appartenant à des femmes ou dirigées par des femmes de se développer, de créer des emplois et d’améliorer leur productivité. Les activités de ce projet comprennent: 1) amélioration de l’accès au financement; 2) renforcement de l’accès aux marchés; 3) consolidation de l’accès à la formation, au mentorat et aux réseaux; 4) amélioration des environnements favorables aux femmes dans le milieu des affaires.  Grâce à un financement de 353 millions de dollars US en provenance de 14 gouvernements, le partenariat de collaboration de We-Fi entre les banques multilatérales de développement, les gouvernements et d’autres intervenants offre une plateforme unique pour débloquer des financements pour les entreprises détenues et dirigées par des femmes dans des pays en développement. We-Fi travaille avec six banques multilatérales de développement comme partenaires de mise en œuvre : la Banque africaine de développement, la Banque asiatique de développement, la Banque interaméricaine de développement, la Banque européenne pour la reconstruction et le développement, la Banque islamique de développement et le Groupe de la Banque mondiale (notamment la Société financière internationale). L’initiative de financement pour les femmes entrepreneurs a lancé quatre appels de propositions pour remplir son mandat. Le dernier appel portait sur la réponse aux besoins des entrepreneures exacerbés par la crise de la COVID-19, grâce à l’utilisation des technologies numériques et à la mise à profit des financements et des données.</description>
+    <status>Actif</status>
+    <start>2018-02-09T00:00:00</start>
+    <end>2032-10-29T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Fonds fiduciaires BIRD - Banque mondiale </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Éducation/formation, banque et services financiers 50,00%</DACSectors>
+      <DACSectors>Services et institutions de soutien commerciaux 50,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>20000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) un soutien apporté à plus de 200 000 PME appartenant à des femmes ou dirigées par des femmes; 2) une mobilisation de 3,5 milliards de dollars de la part des secteurs public et privé afin d’amplifier la capacité de We-Fi à répondre aux conséquences négatives de la pandémie de COVID-19, comme les pertes d’emplois, l’augmentation de la charge de travail des soins domestiques et le déclin des marchés; 3) des projets ont été mis en œuvre dans plus de 66 pays, 65 % des fonds étant destinés à des pays à faible revenu, dont beaucoup sont aux prises avec la fragilité, les conflits et la violence.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus par We-Fi grâce au soutien du gouvernement du Canada et d’autres donateurs internationaux jusqu'en juillet 2021 : 1) 11 181 petites et moyennes entreprises appartenant à des femmes ou dirigées par des femmes ont bénéficié de soutien financier et non financier; 2) 141 partenariats établis avec des institutions des secteurs public et privé; 3) un milliard de dollars de fonds supplémentaires ont été recueillis; 4) 65 % des fonds sont destinés aux pays à faible revenu et aux pays fragiles, en proie à des conflits et à la violence; 5) 243 millions de dollars US en prêts et subventions accordés aux PME par les prestataires de services financiers soutenus par We-Fi; 6) 17 réformes législatives et juridiques ont été appuyées.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Afrique, régional</region>
+      <region>Amérique, régional</region>
+      <region>Europe, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2018-02-09T00:00:00">20000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2017201985</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001001306" city="Washington                         " province="Zone de Colombie" countryCode="US " channelCode="44001" iatiid="44001">Fonds fiduciaires BIRD - Banque mondiale </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2018-02-09T00:00:00" valueDate="2018-02-09T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">20000000.00</transaction>
+      <transaction transactionDate="2018-02-20T00:00:00" valueDate="2018-02-20T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">20000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-M013850001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Fonds climatique canadien pour le secteur privé en Asie</title>
+    <description>Cette initiative appuie des projets du secteur privé en Asie et dans le Pacifique qui aident des pays à réduire leur empreinte carbone et à s’adapter aux effets négatifs des changements climatiques. Elle est axée sur l’augmentation des énergies renouvelables et de l’efficacité énergétique, l’appui aux infrastructures urbaines et au transport durable, et à la réduction des émissions de gaz à effet de serre. Elle aide les pays à atténuer les risques liés à l’utilisation de technologies de pointe et à surmonter les obstacles liés au coût de ces technologies, afin de mettre en œuvre et d’élargir des projets visant à réduire les émissions de gaz à effet de serre et à accroître la résilience climatique. Les projets visant une énergie propre appuyés par le Fonds pourraient porter sur l’énergie éolienne, solaire, géothermique ou hydroélectrique. Le Fonds offre un financement à des conditions de faveur qui donneront lieu à des projets d’adaptation aux changements climatiques et d’atténuation de leurs effets, et plus particulièrement pour les projets qui ne pourraient pas être viables sans l’obtention de prêts assortis de conditions avantageuses. Le Fonds peut fournir jusqu’au tiers du financement nécessaire sous forme de contributions remboursables versées dans la monnaie locale (plutôt qu’en dollars américains), de façon à encourager les entreprises locales à investir en se mettant à l’abri d’une hausse inattendue du coût des emprunts provoquée par la fluctuation des taux de change. Tous les investissements du Fonds sont cofinancés par la Banque asiatique de développement. Au cours de la période d’investissement, le Fonds fournit aussi près de $7.4 millions de dollars américains d' assistance technique pour la sélection de projets du secteur privé ou du secteur public qui établissent des conditions favorables aux investissements du secteur privé.  La contribution du Canada au Fonds devrait permettre au secteur privé de faire des investissements pouvant atteindre 300 millions de dollars américains pendant le cycle de vie du Fonds, qui est de 27 ans, et contribuer à réduire considérablement les émissions de gaz à effet de serre (jusqu’à 750 000 tonnes) par année.</description>
+    <status>Actif</status>
+    <start>2013-03-26T00:00:00</start>
+    <end>2040-03-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Production d'énergie, sources renouvelables - multiples technologies 20,00%</DACSectors>
+      <DACSectors>Énergie solaire 20,00%</DACSectors>
+      <DACSectors>Énergie éolienne 20,00%</DACSectors>
+      <DACSectors>Énergie géothermique 20,00%</DACSectors>
+      <DACSectors>Centrales à biocombustibles 20,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>75000000.01</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Parmi les résultats intermédiaires escomptés dans le cadre de ce projet se trouvent l’augmentation des mesures d’atténuation mises en œuvre relativement aux changements climatiques et la réduction de la vulnérabilité aux effets néfastes des changements climatiques.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu’en décembre 2023 : 1) alloué 70,25 millions de dollars américains sous forme de prêts concessionnels pour 6 projets d’énergie renouvelable et d’un projet de logements écologiques. Parmi ces projets, notons la centrale géothermique de Sarulla en Indonésie (le plus important contrat de géothermie au monde), la première installation de panneaux solaires photovoltaïques flottants à grande échelle au Vietnam (aussi la plus grande installation en Asie du Sud-Est) et un projet avec India Infoline Finance Limited visant à accroître l’accès des femmes à des logements écologiques abordables; 2) permis de réduire 2,3 millions de tonnes d’émissions de CO2, ce qui dépasse l’objectif annuel de 750?000 tonnes. Une telle réduction équivaut au retrait de la circulation de plus de 545?000 voitures en Amérique du Nord chaque année; 3) installé une capacité de génération d’énergie renouvelable de 1?466 mégawatts.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don remboursable</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Pré-PPA</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="0">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="2">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2012-04-01T00:00:00" endDate="2013-03-31T00:00:00" valueDate="2013-03-26T00:00:00">82392968.00</budget>
+      <budget budgetType="Original" startDate="2017-04-01T00:00:00" endDate="2018-03-31T00:00:00" valueDate="2013-03-26T00:00:00">0.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2013200283</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-M013850002</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2013-03-26T00:00:00" valueDate="2013-03-26T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">75000000.01</transaction>
+      <transaction transactionDate="2013-03-28T00:00:00" valueDate="2013-03-28T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2013-03-28T00:00:00" valueDate="2013-03-28T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2013-03-28T00:00:00" valueDate="2013-03-28T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-M013060001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Programme pilote pour la résistance aux chocs climatiques</title>
+    <description>Le Programme pilote pour la résistance aux chocs climatiques (PPRCC) vise à renforcer les stratégies nationales en matière de résistance aux chocs climatiques dans quelques « pays pilotes » (jusqu’à 10) choisis en raison de leur vulnérabilité aux chocs climatiques; à intégrer des approches et des mesures d’adaptation aux politiques, aux plans et aux programmes nationaux et sectoriels de développement; ainsi qu’à retenir des leçons et à acquérir des connaissances importantes, y compris le recensement des modèles d’adaptation au climat éprouvés sur le plan de la gestion des ressources et des programmes d’infrastructure.  Le PPRCC a deux phases : i) la phase d’assistance technique pour renforcer la capacité du gouvernement hôte d’élaborer son programme de développement national de résistance aux chocs climatiques et de l’intégrer aux plans et aux budgets nationaux; ii) la phase de financement de programme pour apporter les ressources financières pour la mise en œuvre des activités du programme de résistance aux chocs climatiques.  Les activités sont prises en charge par les pays et financées par l'entremise de subventions de la Banque mondiale, fiduciaire, ainsi que d’une ou de plusieurs banques multilatérales de développement que les pays visés par le projet pilote ont choisies comme partenaires d’exécution. Les banques multilatérales de développement participantes sont la Banque mondiale, la Banque africaine de développement, la Banque asiatique de développement et la Banque interaméricaine de développement.</description>
+    <status>Actif</status>
+    <start>2008-11-18T00:00:00</start>
+    <end>2018-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Fonds fiduciaires BIRD - Banque mondiale </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Politique du secteur de l’eau et gestion administrative 25,00%</DACSectors>
+      <DACSectors>Politiques publiques et gestion administrative 25,00%</DACSectors>
+      <DACSectors>Politique de l'environnement et gestion administrative 50,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>100000000.01</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults />
+    <resultsAchieved>Les résultats atteimts jusqu'en mars 2017 comprennent: 1) le Programme pilote pour la résistance aux chocs climatiques (PPRCC) a approuvé 59 projets totalisant 974 millions de dollars américains. Sur cette somme, 244,9 millions de dollars américains (25 %) ont été versés à des projets. À la suite des projets en activité du PPRCC, plus de 2,8 millions de bénéficiaires ont été rejoints à ce jour, dont 1,4 million de femmes; 2) les outils, les instruments, les stratégies et les activités appuyés par le PPRCC ont également aidé 7 000 entités publiques et 44 000 entreprises à s’adapter aux répercussions des changements climatiques. Après que tous les fonds du PPRCC auront été versés aux projets, le PPRCC prévoit rejoindre 39,6 millions de personnes, dont 20 millions de femmes; 3) un exemple de projet du PPRCC en cours de mise en œuvre est le Projet d’infrastructure côtière résistante aux chocs climatiques (Coastal Climate Resilient Infrastructure Project) au Bangladesh, qui est exécuté par la Banque asiatique de développement. Le PPRCC a versé 30 millions de dollars américains en financement à ce projet, qui appuie 12 districts côtiers vulnérables aux chocs climatiques en rendant les routes et les ponts résistants aux chocs climatiques et en améliorant les ouvrages de drainage pour qu’ils puissent traiter le ruissellement accru prévu par les futurs scénarios climatiques. Le renforcement des capacités communautaires a également été intégré au projet et depuis le début du projet, plus de 150 séances de formation sur l’infrastructure rurale résistante aux chocs climatiques ont été organises; 4) le projet met également à niveau 88 centres de croissance et grands marchés en fournissant des zones commerciales asphaltées, des remises, l’approvisionnement en eau, des installations de drainage et d’assainissement et des bureaux pour les marchés, en attribuant 15 % des emplacements aux femmes.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Pré-PPA</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="2">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Afrique, régional</region>
+      <region>Amérique, régional</region>
+      <region>Asie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2008-04-01T00:00:00" endDate="2009-03-31T00:00:00" valueDate="2008-11-18T00:00:00">85000000.00</budget>
+      <budget budgetType="Original" startDate="2009-04-01T00:00:00" endDate="2010-03-31T00:00:00" valueDate="2008-11-18T00:00:00">15000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2009200574</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001001306" city="Washington                         " province="Zone de Colombie" countryCode="US " channelCode="44001" iatiid="44001">Fonds fiduciaires BIRD - Banque mondiale </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2008-11-18T00:00:00" valueDate="2008-11-18T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">100000000.01</transaction>
+      <transaction transactionDate="2009-03-30T00:00:00" valueDate="2009-03-30T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">85000000.00</transaction>
+      <transaction transactionDate="2009-10-19T00:00:00" valueDate="2009-10-19T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">15000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-D003984001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Fonds climatique canadien pour le secteur privé en Asie - II</title>
+    <description>Cette initiative est la deuxième phase du Fonds climatique canadien pour le secteur privé en Asie. Elle a pour objectif de catalyser des investissements du secteur privé plus importants dans des projets d’atténuation des changements climatiques et d’adaptation aux changements climatiques dans les pays à faible revenu et à revenu intermédiaire de la tranche inférieure d’Asie et du Pacifique et dans de petits États insulaires à revenu intermédiaire de la tranche supérieure de la région. Le Fonds fournit un financement à des conditions de faveur, qui s’ajoute à des ressources de la Banque asiatique de développement, pour des projets du secteur privé qui nécessitent des conditions plus généreuses pour être viables.  Le Fonds investit dans des activités du secteur privé qui appuient les efforts des pays pour suivre une voie de développement reposant sur de faibles émissions de carbone et résiliente aux changements climatiques pour la région. Cela comprend des activités liées à l’approvisionnement en eau et à la gestion de l’eau, à l’agriculture et à la foresterie, à la gestion de l’utilisation des terres, à la gestion des ressources naturelles, à l’infrastructure résiliente, à la protection du littoral, à la gestion des risques liés aux catastrophes, à l’énergie propre et renouvelable, au transport durable et à la gestion des déchets. Les projets financés par le Fonds contribuent aussi à un développement économique qui tient compte des questions de genre dans les pays admissibles, et intègre des extrants liés à l’égalité des sexes.  Au cours du cycle de vie du Fonds, il est attend que la contribution du Canada permet de mobiliser jusqu’à deux fois sa valeur en investissement du secteur privé, contribue à réduire ou à éviter jusqu’à 20 millions de tonnes d’émissions de gaz à effet de serre, et aide jusqu’à 100 000 bénéficiaires à s’adapter aux effets des changements climatiques.</description>
+    <status>Actif</status>
+    <start>2017-03-27T00:00:00</start>
+    <end>2044-09-27T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Production d'énergie, sources renouvelables - multiples technologies 20,00%</DACSectors>
+      <DACSectors>Énergie solaire 20,00%</DACSectors>
+      <DACSectors>Énergie éolienne 20,00%</DACSectors>
+      <DACSectors>Énergie géothermique 20,00%</DACSectors>
+      <DACSectors>Centrales à biocombustibles 20,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>200000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) réduction de l’utilisation et de la production de carbone par des entreprises et des personnes dans les pays où le projet est mené; 2) adoption accrue de pratiques résilientes aux changements climatiques et de pratiques d’adaptation par des intervenants clés dans les pays où le projet est mené; 3) amélioration de la participation économique des femmes à des activités d’atténuation des changements climatiques et d’adaptation aux changements climatiques.</expectedResults>
+    <resultsAchieved>Parmi les résultats obtenus jusqu’en décembre 2023: 1) alloué 109 millions de dollars américains sous forme de prêts concessionnels. Ceci est fait dans le cadre de 9 projets différents dirigés par le secteur privé qui font progresser des voies durables et inclusives à faible émission de carbone et résilientes aux changements climatiques dans les pays en développement de l’Indo-Pacifique; 2) réduira d’environ 34 millions de tonnes d’émissions de gaz à effet de serre au cours de la durée de vie du fonds, ce qui équivaut au retrait de plus de 8 millions de voitures par année; 3) générera plus de 3 600 gigawatts d’énergie renouvelable chaque année à partir de sources solaires, éoliennes ou hydroélectriques; 4) mettra en place d’une capacité de génération d’énergie renouvelable de 1180 mégawatts; 5) amélioré l’égalité des genres et l’autonomisation des femmes dans 90 % des projets financés. Ceci est possible grâce aux initiatives visant à créer des emplois, à offrir de la formation, à encourager des milieux de travail et des politiques organisationnelles favorisant qui favorisent l’égalité des genres (politiques visant à lutter contre l’exploitation sexuelle, les abus, le harcèlement, etc.), à favoriser l’approvisionnement inclusif et à appuyer l’entrepreneuriat féminin à l’échelle locale.  Depuis le lancement de ce fonds à ce jour, le financement concessionnel du Canada a contribué à plusieurs projets climatiques marquants dans la région indo-pacifique. Ceci comprend les premiers projets d’énergie solaire pour alimenter un réseau public développés par le secteur privé en Afghanistan, en Indonésie et en Ouzbékistan. Il a également soutenu le premier et le plus important projet de panneaux solaires flottants à grande échelle d’Asie du Sud-Est au Vietnam, la construction de la plus grande centrale éolienne transfrontalière d’Asie du Sud-Est en République démocratique populaire du Laos (qui fournit désormais de l’électricité aussi au Vietnam), ainsi que le premier projet hydroélectrique dirigé par le secteur privé au Népal.</resultsAchieved>
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don remboursable</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="2">Changement climatique</policyMarker>
+      <policyMarker level="1">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+      <region>Océanie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2016-04-01T00:00:00" endDate="2017-03-31T00:00:00" valueDate="2017-03-27T00:00:00">148500000.00</budget>
+      <budget budgetType="Original" startDate="2018-04-01T00:00:00" endDate="2019-03-31T00:00:00" valueDate="2017-03-27T00:00:00">21500000.00</budget>
+      <budget budgetType="Original" startDate="2019-04-01T00:00:00" endDate="2020-03-31T00:00:00" valueDate="2017-03-27T00:00:00">30000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2017200180</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2017-03-27T00:00:00" valueDate="2017-03-27T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">200000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">-148500000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">23500000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25000000.00</transaction>
+      <transaction transactionDate="2017-03-31T00:00:00" valueDate="2017-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">148500000.00</transaction>
+      <transaction transactionDate="2019-01-09T00:00:00" valueDate="2019-01-09T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">21500000.00</transaction>
+      <transaction transactionDate="2020-01-20T00:00:00" valueDate="2020-01-20T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">30000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P012801001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Fonds canadien pour le climat et la nature pour le secteur privé en Asie</title>
+    <description>Le Fonds canadien pour le climat et la nature pour le secteur privé en Asie (CANPA) est un partenariat entre le gouvernement du Canada et la Banque asiatique de développement (BAD). Ce fonds vise à soutenir la transition des pays en développement de l’Indo-Pacifique vers des économies inclusives, à faibles émissions et résilientes face au climat en utilisant le financement mixte pour mobiliser les investissements du secteur privé dans des projets d’atténuation et d’adaptation au climat ainsi que dans des solutions fondées sur la nature qui font progresser l’égalité des genres dans la région. Le CANPA conjuguera du financement à des conditions de faveur accordé par le Canada et des ressources de la BAD, en vue d’atténuer les risques qui empêchent le secteur privé d’investir dans ce type de projets. Les principaux secteurs visés par le fonds comprennent l’énergie renouvelable, le transport et la distribution d’électricité, la mobilité et les infrastructures électriques, ainsi que la gestion de l’approvisionnement en eau. Pour les projets liés à des solutions fondées sur la nature, les principaux domaines d’intervention comprennent l’agriculture durable et adaptée au climat, l’aquaculture, ainsi que la restauration et la protection des habitats. Le CANPA s’inscrit dans le prolongement des fonds pour le climat que le Canada a déjà établis avec la BAD, soit les phases I et II du Fonds climatique canadien pour le secteur privé en Asie, lancées en 2013 et en 2017. Le CANPA est soutenu par un mécanisme d’assistance technique destiné à soutenir la préparation et la mise en œuvre de projets admissibles au financement à des conditions de faveur du CANPA et à améliorer les conditions du marché pour les investissements du secteur privé dans des solutions climatiques et fondées sur la nature qui visent à favoriser l’égalité des genres. Au cours de la durée de vie du fonds, le CANPA devrait mobiliser jusqu’à 3 fois son enveloppe de financement en investissements du secteur privé, contribuer à la réduction ou à l’évitement de l’émission d’au plus 40 millions de tonnes de gaz à effet de serre et soutenir jusqu’à 200 000 bénéficiaires.</description>
+    <status>Actif</status>
+    <start>2024-03-12T00:00:00</start>
+    <end>2042-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Banque asiatique de développement </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Approvisionnement en eau - systèmes à grande échelle 8,00%</DACSectors>
+      <DACSectors>Production d'énergie, sources renouvelables - multiples technologies 43,00%</DACSectors>
+      <DACSectors>Transport et distribution d'électricité 11,00%</DACSectors>
+      <DACSectors>Infrastructures électriques à l'usage de la mobilité 10,00%</DACSectors>
+      <DACSectors>Intermédiaires financiers officiels 8,00%</DACSectors>
+      <DACSectors>Ressources en terres cultivables 4,00%</DACSectors>
+      <DACSectors>Produits à usage agricole 12,00%</DACSectors>
+      <DACSectors>Développement de la pêche 4,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>350000000.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) utilisation accrue des énergies renouvelables et des solutions d’infrastructure à faibles émissions de carbone par les entreprises et les particuliers, en particulier les femmes, en vue d’améliorer les mesures d’atténuation des changements climatiques qui sont respectueuses de la nature dans les pays où le projet est mené; 2) amélioration de la gestion du capital naturel et de la biodiversité par les entreprises et les particuliers, en particulier les femmes, dans le but de favoriser les mesures d’atténuation et d’adaptation à l’égard des changements climatiques qui sont respectueuses de la nature dans les pays où le projet est mené; 3) augmentation de la qualité des emplois destinés aux femmes créés par les entreprises ayant accès à du financement climatique dans le cadre du Fonds; 4) renforcement de la résilience des femmes et des filles aux chocs causés par les changements climatiques.</expectedResults>
+    <resultsAchieved />
+    <aidType>Contributions à des programmes ou fonds à objectif spécifique gérés par des partenaires d'exécution</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don remboursable</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>Initiative du Ministère</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="2">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="2">Changement climatique</policyMarker>
+      <policyMarker level="1">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Asie, régional</region>
+      <region>Océanie, régional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2023-04-01T00:00:00" endDate="2024-03-31T00:00:00" valueDate="2024-03-12T00:00:00">182000000.00</budget>
+      <budget budgetType="Original" startDate="2024-04-01T00:00:00" endDate="2025-03-31T00:00:00" valueDate="2024-03-12T00:00:00">168000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2024200042</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002419" city="MANILA                             " province="Philippines" countryCode="PH " channelCode="46004" iatiid="46004">Banque asiatique de développement </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P012801001</relatedActivity>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P012801002</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2024-03-12T00:00:00" valueDate="2024-03-12T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">350000000.00</transaction>
+      <transaction transactionDate="2024-03-12T00:00:00" valueDate="2024-03-12T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">25.00</transaction>
+      <transaction transactionDate="2024-03-14T00:00:00" valueDate="2024-03-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">199999975.00</transaction>
+    </transactions>
+  </project>
+  </filtered_by_word_banque_asiatique>

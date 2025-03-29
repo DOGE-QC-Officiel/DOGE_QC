@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects xmlns:pb="http://www.acdi-cida.gc.ca/opendata/pb/1-0-0">
+  <header>
+    <headerInformation>International Development Projects - 2025-02-07 8:17:02 PM - all published projects</headerInformation>
+    <language>English</language>
+    <filter></filter>
+  </header>
+  <project>
+    <projectNumber>CA-3-D003829001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Global Partnership for Education - Institutional Support 2018-2021</title>
+    <description>This grant represents Canada’s institutional support to the Global Partnership for Education (GPE). The GPE uses these funds, along with other donors’ funding, to achieve its mandate.  The GPE is the main multilateral funding mechanism focused on basic education in developing countries. It aims to mobilize global and national efforts to contribute to the achievement of equitable, quality education and learning for all, through inclusive partnership, with a focus on effective and efficient education systems and increased financing. The GPE’s strategic goals include: improved and more equitable learning outcomes; increased equity, gender equality and inclusion; and effective and efficient education systems. It provides a platform for coordination among bilateral donors, developing countries, multilateral institutions and civil society organizations. The GPE also fosters mutual accountability, shares knowledge about best practices and encourages transparency at all levels.  Some program activities include: (1) providing country-level funding to increase  children’s access to education; (2) supporting education sector plans that focus on increasing the quality of teaching and the number of qualified teachers; (3) providing appropriate reading materials to children; and (4) assessing the volume of financing to education at the global and country levels.</description>
+    <status>Closed</status>
+    <start>2019-03-08T00:00:00</start>
+    <end>2021-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Global Partnership for Education c/o World Bank</executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Education policy and administrative management 5.00%</DACSectors>
+      <DACSectors>Education facilities and training 5.00%</DACSectors>
+      <DACSectors>Teacher training 20.00%</DACSectors>
+      <DACSectors>Primary education 40.00%</DACSectors>
+      <DACSectors>Basic life skills for youth 5.00%</DACSectors>
+      <DACSectors>Early childhood education 5.00%</DACSectors>
+      <DACSectors>Secondary education 20.00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>150000000.00</maximumContribution>
+    <ContributingOrganization></ContributingOrganization>
+    <expectedResults>The expected outcomes as stated by the Global Partnership for Education (GPE) project include: (1) strengthen education sector planning and policy implementation at the country level; (2) support mutual accountability through effective and inclusive sector policy dialogue and monitoring at the country level; (3) GPE financing efficiently and effectively supports the implementation of sector plans focused on improved equity, efficiency and learning at the country level; (4) mobilize more and better financing at the global level; and (5) build a stronger partnership at the global level. </expectedResults>
+    <resultsAchieved>Results achieved as of the end of the project (December 2021) include: (1) 91% of  Global Partnership for Education (GPE)development partner countries who received GPE grants had education sector plans in place that met quality standards, including 77% that focused on quality teaching and learning strategies, 77% had equity strategies and 77% had improved efficiency strategies that met quality standards; (2) 88% of joint sector reviews met quality standards, and civil society and teachers were represented in 66% of local education groups; (3) 89% of grants went to education management information system and learning assessment system, and 92% of countries who received GPE grants addressed issues related to domestic financing for education. Of these, 68% of GPE developing partner countries have dedicated more than 20% of public spending on education; and (4) 71% of GPE donors have increased or maintained their education funding.</resultsAchieved>
+    <aidType>Contributions to specific-purpose programmes and funds managed by implementing partners</aidType>
+    <collaborationType>Bilateral</collaborationType>
+    <financeType>Aid grant excluding debt reorganisation</financeType>
+    <flowType></flowType>
+    <reportingOrganisation>Global Affairs Canada</reportingOrganisation>
+    <programName>International Assistance Partnerships an</programName>
+    <selectionMechanism>Institutional Support</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Gender equality</policyMarker>
+      <policyMarker level="0">Environmental sustainability (cross-cutting)</policyMarker>
+      <policyMarker level="0">Participatory development and good governance</policyMarker>
+      <policyMarker level="0">Trade development</policyMarker>
+      <policyMarker level="0">Biodiversity</policyMarker>
+      <policyMarker level="0">Climate change mitigation</policyMarker>
+      <policyMarker level="0">Climate Change Adaptation</policyMarker>
+      <policyMarker level="0">Urban issues</policyMarker>
+      <policyMarker level="0">Desertification</policyMarker>
+      <policyMarker level="2">Children's issues</policyMarker>
+      <policyMarker level="2">Youth Issues</policyMarker>
+      <policyMarker level="1">Disability</policyMarker>
+      <policyMarker level="0">Indigenous Issues</policyMarker>
+      <policyMarker level="0">ICT as a tool for development</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Africa, regional</region>
+      <region>America, regional</region>
+      <region>Asia, regional</region>
+      <region>Oceania, regional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2018-04-01T00:00:00" endDate="2019-03-31T00:00:00" valueDate="2019-03-08T00:00:00">30000000.00</budget>
+      <budget budgetType="Original" startDate="2019-04-01T00:00:00" endDate="2020-03-31T00:00:00" valueDate="2019-03-08T00:00:00">60000000.00</budget>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2019-03-08T00:00:00">60000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="CRS Activity identifier">2019200378</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001018057" city="Washington                         " province="District of Columbia" countryCode="US " channelCode="47501" iatiid="47501">Global Partnership for Education c/o World Bank</participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2019-03-08T00:00:00" valueDate="2019-03-08T00:00:00" transactionType="Commitment" flowType="ODA" tiedStatus="Untied">150000000.00</transaction>
+      <transaction transactionDate="2019-03-15T00:00:00" valueDate="2019-03-15T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">30000000.00</transaction>
+      <transaction transactionDate="2020-01-22T00:00:00" valueDate="2020-01-22T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">60000000.00</transaction>
+      <transaction transactionDate="2020-03-31T00:00:00" valueDate="2020-03-31T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">40000000.00</transaction>
+      <transaction transactionDate="2020-10-21T00:00:00" valueDate="2020-10-21T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">20000000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-D004279001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Seventh Replenishment (2018-2022) - Global Environment Facility (GEF)</title>
+    <description>This project represents Canada's support to the seventh replenishment of the Global Environment Facility (GEF), which is one of the largest sources of global environment funding. By supporting the GEF, Canada helps developing countries meet their obligations under several multilateral environmental agreements in a way that supports national sustainable development priorities and ensures benefits for local development. These multilateral environmental agreements include the Convention on Biological Diversity, United Nations Framework Convention on Climate Change, Stockholm Convention on Persistent Organic Pollutants, United Nations Convention to Combat Desertification and Minamata Convention on Mercury.  Through the GEF, Canada supports activities across six focal areas, including climate change, biodiversity, land degradation, chemicals and waste, international waters, and sustainable forest management.</description>
+    <status>Closed</status>
+    <start>2019-02-13T00:00:00</start>
+    <end>2022-06-30T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>GEF - Global Environmental Facility </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Water resources conservation (including data collection) 3.80%</DACSectors>
+      <DACSectors>Waste management/disposal 4.90%</DACSectors>
+      <DACSectors>Energy generation, renewable sources - multiple technologies 19.80%</DACSectors>
+      <DACSectors>Agricultural land resources 5.90%</DACSectors>
+      <DACSectors>Agricultural water resources 3.80%</DACSectors>
+      <DACSectors>Forestry development 5.90%</DACSectors>
+      <DACSectors>Fishing policy and administrative management 3.80%</DACSectors>
+      <DACSectors>Chemicals 4.90%</DACSectors>
+      <DACSectors>Nonferrous metals 4.90%</DACSectors>
+      <DACSectors>Bio-diversity 31.90%</DACSectors>
+      <DACSectors>Multisector aid 10.40%</DACSectors>
+    </DACSectors>
+    <maximumContribution>216570000.00</maximumContribution>
+    <ContributingOrganization></ContributingOrganization>
+    <expectedResults>The expected outcomes for this project include: (1) the creation or improved management of 8 million hectares of marine protected areas; (2) the restoration of 6 million hectares of land; (3) the mitigation of 1.5 billion tonnes of carbon dioxide equivalent; and (4) the reduction, disposal, phase out, elimination and avoidance of 100 metric tons of chemicals of global concern.</expectedResults>
+    <resultsAchieved></resultsAchieved>
+    <aidType>Core contributions to multilateral institutions</aidType>
+    <collaborationType>Multilateral</collaborationType>
+    <financeType>Encashment basis</financeType>
+    <flowType></flowType>
+    <reportingOrganisation>Global Affairs Canada</reportingOrganisation>
+    <programName>International Assistance Partnerships an</programName>
+    <selectionMechanism>Institutional Support</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Gender equality</policyMarker>
+      <policyMarker level="2">Environmental sustainability (cross-cutting)</policyMarker>
+      <policyMarker level="0">Participatory development and good governance</policyMarker>
+      <policyMarker level="0">Trade development</policyMarker>
+      <policyMarker level="2">Biodiversity</policyMarker>
+      <policyMarker level="2">Climate change mitigation</policyMarker>
+      <policyMarker level="1">Climate Change Adaptation</policyMarker>
+      <policyMarker level="0">Urban issues</policyMarker>
+      <policyMarker level="2">Desertification</policyMarker>
+      <policyMarker level="0">Children's issues</policyMarker>
+      <policyMarker level="0">Youth Issues</policyMarker>
+      <policyMarker level="0">Disaster Risk Reduction(DRR)</policyMarker>
+      <policyMarker level="0">Indigenous Issues</policyMarker>
+      <policyMarker level="0">Disability</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">ICT as a tool for development</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Africa, regional</region>
+      <region>America, regional</region>
+      <region>Asia, regional</region>
+      <region>Europe, regional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2018-04-01T00:00:00" endDate="2019-03-31T00:00:00" valueDate="2019-02-13T00:00:00">38149704.00</budget>
+      <budget budgetType="Original" startDate="2019-04-01T00:00:00" endDate="2020-03-31T00:00:00" valueDate="2019-02-13T00:00:00">70302804.00</budget>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2019-02-13T00:00:00">70302804.00</budget>
+      <budget budgetType="Original" startDate="2021-04-01T00:00:00" endDate="2022-03-31T00:00:00" valueDate="2019-02-13T00:00:00">70302804.00</budget>
+      <budget budgetType="Original" startDate="2022-04-01T00:00:00" endDate="2023-03-31T00:00:00" valueDate="2019-02-13T00:00:00">29032811.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="CRS Activity identifier">2018200910</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001002416" city="New York                           " province="New York" countryCode="US " channelCode="47044" iatiid="47044">GEF - Global Environmental Facility </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2019-02-13T00:00:00" valueDate="2019-02-13T00:00:00" transactionType="Commitment" flowType="ODA" tiedStatus="Untied">216570000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P005247001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Global Fund to Fight AIDS, Tuberculosis and Malaria - Institutional Support 2020 to 2022</title>
+    <description>This grant represents Canada’s long-term institutional support to the Global fund to fight AIDS, tuberculosis and malaria. The Global Fund to Fight AIDS, Tuberculosis and Malaria uses these funds, along with other donors’ funding, to achieve its mandate.  The Global Fund to Fight AIDS, Tuberculosis and Malaria is a unique, public-private partnership and international financing institution dedicated to attracting and disbursing additional resources to prevent and treat AIDS, tuberculosis and malaria. It is a partnership between governments, civil society, the private sector and affected communities, which represents an innovative approach to international health financing. The Global Fund’s model is based on the concepts of country ownership and performance-based funding. This means that organizations in developing countries implement their own programs based on their own priorities and must be able to show the results achieved.  Since its creation in 2002, the Global Fund has become the main global financier of programs to fight AIDS, tuberculosis and malaria, with approved funding in more than 100 countries. This grant contributes towards meeting the Sustainable Development Goal target of eliminating HIV, tuberculosis and malaria as epidemics by 2030 by supporting countries to scale up treatment and prevention services. This grant also contributes to improving the health and rights of women and children (including adolescents) and focuses international assistance efforts on helping the poorest and most vulnerable.</description>
+    <status>Closed</status>
+    <start>2020-12-16T00:00:00</start>
+    <end>2022-12-31T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>Global Fund to Fight AIDS, Tuberculosis &amp; Malaria </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Malaria control 30.00%</DACSectors>
+      <DACSectors>Tuberculosis control 17.00%</DACSectors>
+      <DACSectors>STD control including HIV/AIDS 53.00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>930400000.00</maximumContribution>
+    <ContributingOrganization></ContributingOrganization>
+    <expectedResults>The expected outcomes as stated by the “Global Fund Strategy 2017-2022” include: (1) supported 90% of persons living with HIV (PLHIV) to know their status, 90% PLHIV know their status and received treatment, and 90% of people on treatment suppressed viral loads; (2) enabled a 20% and 35% decline in TB incidence rate and TB deaths respectively, compared to 2015; and (3) reduced at least a 40% in malaria mortality rates and malaria case incidence, compared to 2015.</expectedResults>
+    <resultsAchieved>Results achieved as of November 2022 include: (1) supported 85% of people living with Human Immunodeficiency Virus (HIV) to know their status; 88% of people who know their HIV status received treatment, and 92% of people on HIV treatment suppressed viral loads; (2) enabled a 22% decline in the tuberculosis (TB) incidence rate and a 8% decline in the TB death rate; and (3) reduced by 10%  in malaria deaths and 17% reduction in malaria case incidence.  Also, in 2021 alone, Global Fund programs: (1) facilitated the treatment of 148 million cases of malaria; (2)  distributed 133.2 million mosquito nets  to protect families from malaria transmission; (3) enabled 23.3 million people to receive lifesaving antiretroviral therapy for HIV; (4) reached 4.4 million adolescent girls and young women with HIV prevention programs in Sub-Saharan Africa; (5) enabled 670,000 mothers living with HIV to receive medicine to keep them alive and prevent transmitting HIV to their babies; (6) treated 5.3 million people for tuberculosis; and (7) enabled 395,000 people in contact with tuberculosis patients to receive preventative therapy.</resultsAchieved>
+    <aidType>Core contributions to multilateral institutions</aidType>
+    <collaborationType>Multilateral</collaborationType>
+    <financeType>Aid grant excluding debt reorganisation</financeType>
+    <flowType></flowType>
+    <reportingOrganisation>Global Affairs Canada</reportingOrganisation>
+    <programName>International Assistance Partnerships an</programName>
+    <selectionMechanism>Institutional Support</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Gender equality</policyMarker>
+      <policyMarker level="0">Environmental sustainability (cross-cutting)</policyMarker>
+      <policyMarker level="0">Participatory development and good governance</policyMarker>
+      <policyMarker level="0">Trade development</policyMarker>
+      <policyMarker level="0">Biodiversity</policyMarker>
+      <policyMarker level="0">Climate change mitigation</policyMarker>
+      <policyMarker level="0">Climate Change Adaptation</policyMarker>
+      <policyMarker level="0">Urban issues</policyMarker>
+      <policyMarker level="0">Desertification</policyMarker>
+      <policyMarker level="1">Children's issues</policyMarker>
+      <policyMarker level="1">Youth Issues</policyMarker>
+      <policyMarker level="0">Disaster Risk Reduction(DRR)</policyMarker>
+      <policyMarker level="0">Indigenous Issues</policyMarker>
+      <policyMarker level="0">Disability</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">ICT as a tool for development</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>South of Sahara, regional</region>
+      <region>South America, regional</region>
+      <region>Middle East, regional</region>
+      <region>Central Asia, regional</region>
+      <region>Asia, regional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2020-12-16T00:00:00">268000000.00</budget>
+      <budget budgetType="Original" startDate="2021-04-01T00:00:00" endDate="2022-03-31T00:00:00" valueDate="2020-12-16T00:00:00">328500000.00</budget>
+      <budget budgetType="Original" startDate="2022-04-01T00:00:00" endDate="2023-03-31T00:00:00" valueDate="2020-12-16T00:00:00">333900000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="CRS Activity identifier">2020200926</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001011749" city="Grand-Saconnex                     " province="Geneva" countryCode="CH " channelCode="47045" iatiid="47045">Global Fund to Fight AIDS, Tuberculosis &amp; Malaria </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Sibling">CA-3-P005247002</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2020-12-16T00:00:00" valueDate="2020-12-16T00:00:00" transactionType="Commitment" flowType="ODA" tiedStatus="Untied">930400000.00</transaction>
+      <transaction transactionDate="2020-12-18T00:00:00" valueDate="2020-12-18T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">193000000.00</transaction>
+      <transaction transactionDate="2021-03-31T00:00:00" valueDate="2021-03-31T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">75000000.00</transaction>
+      <transaction transactionDate="2021-12-02T00:00:00" valueDate="2021-12-02T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">108500000.00</transaction>
+      <transaction transactionDate="2021-12-21T00:00:00" valueDate="2021-12-21T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">220000000.00</transaction>
+      <transaction transactionDate="2022-10-17T00:00:00" valueDate="2022-10-17T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">333900000.00</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P010075001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Access to COVID-19 Tools Accelerator Health Systems Connector</title>
+    <description>This project aims to decrease COVID-19 related mortality and morbidity in 74 countries, particularly for populations experiencing marginalization or in situations of vulnerability. The project supports the Access to COVID-19 Tools (ACT)-Accelerator’s Health Systems Connector to urgently reinforce national and regional health system responses to the COVID-19 pandemic using a coordinated multi-partner approach. This would allow them to implement frontline service capacity assessments, identify cross-cutting gaps in essential health systems and services, develop readiness plans, and provide technical support and relevant guidance and instruments.</description>
+    <status>Closed</status>
+    <start>2021-03-30T00:00:00</start>
+    <end>2022-09-30T00:00:00</end>
+    <countries />
+    <executingAgencyPartner>WHO - World Health Organization </executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>COVID-19 control 100.00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>100000000.00</maximumContribution>
+    <ContributingOrganization></ContributingOrganization>
+    <expectedResults>The expected outcomes of this project include: (1) increased equitable deployment and delivery of essential health services and COVID-19 tools, particularly vaccines, therapeutics and diagnostics; and (2) strengthened country financing processes, community engagement, and data-driven decision-making for more equitable deployment of COVID-19 tools including vaccines, therapeutics and diagnostics.</expectedResults>
+    <resultsAchieved>Results achieved as of the end of the project (September 2022) include: (1) the development of guidance for health workforce deployment and management in 51 countries; (2) strengthened infection prevention and control practices in 60 countries; (3) training on gender-sensitive clinical management of COVID-19 in 55 countries; (4) investment planning and scale-up plans informed by COVID-19 impact assessments undertaken in 54 countries; and (5) establishment of community and facility surveillance networks for real-time health service monitoring in 16 countries.</resultsAchieved>
+    <aidType>Contributions to specific-purpose programmes and funds managed by implementing partners</aidType>
+    <collaborationType>Bilateral</collaborationType>
+    <financeType>Aid grant excluding debt reorganisation</financeType>
+    <flowType></flowType>
+    <reportingOrganisation>Global Affairs Canada</reportingOrganisation>
+    <programName>International Assistance Partnerships an</programName>
+    <selectionMechanism>Department-Initiated</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Gender equality</policyMarker>
+      <policyMarker level="1">Environmental sustainability (cross-cutting)</policyMarker>
+      <policyMarker level="1">Participatory development and good governance</policyMarker>
+      <policyMarker level="0">Trade development</policyMarker>
+      <policyMarker level="0">Biodiversity</policyMarker>
+      <policyMarker level="0">Climate change mitigation</policyMarker>
+      <policyMarker level="0">Climate Change Adaptation</policyMarker>
+      <policyMarker level="0">Urban issues</policyMarker>
+      <policyMarker level="0">Desertification</policyMarker>
+      <policyMarker level="0">Children's issues</policyMarker>
+      <policyMarker level="0">Youth Issues</policyMarker>
+      <policyMarker level="0">Disaster Risk Reduction(DRR)</policyMarker>
+      <policyMarker level="0">Disability</policyMarker>
+      <policyMarker level="0">Indigenous Issues</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">ICT as a tool for development</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Africa, regional</region>
+      <region>America, regional</region>
+      <region>Asia, regional</region>
+      <region>Oceania, regional</region>
+      <region>Europe, regional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2020-04-01T00:00:00" endDate="2021-03-31T00:00:00" valueDate="2021-03-30T00:00:00">100000000.00</budget>
+    </budgets>
+    <Locations />
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="CRS Activity identifier">2021200428</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0001003693" city="Geneva 27                          " province="Geneva" countryCode="CH " channelCode="41143" iatiid="41143">WHO - World Health Organization </participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities />
+    <transactions>
+      <transaction transactionDate="2021-03-30T00:00:00" valueDate="2021-03-30T00:00:00" transactionType="Commitment" flowType="ODA" tiedStatus="Untied">100000000.00</transaction>
+      <transaction transactionDate="2021-03-31T00:00:00" valueDate="2021-03-31T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">100000000.00</transaction>
+    </transactions>
+  </project>
+</projects>

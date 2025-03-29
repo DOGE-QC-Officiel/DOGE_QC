@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sectors>
+	<sector class="active-result" data-option-array-index="0">Action Relating To Debt (600)</sector>
+	<sector class="active-result" data-option-array-index="1">Administrative Costs Of Donors (910)</sector>
+	<sector class="active-result" data-option-array-index="2">Agriculture (311)</sector>
+	<sector class="active-result" data-option-array-index="3">Banking And Financial Services (240)</sector>
+	<sector class="active-result" data-option-array-index="4">Basic Education (112)</sector>
+	<sector class="active-result" data-option-array-index="5">Basic Health (122)</sector>
+	<sector class="active-result" data-option-array-index="6">Business And Other Services (250)</sector>
+	<sector class="active-result" data-option-array-index="7">Commodity aid and general program assistance (500)</sector>
+	<sector class="active-result" data-option-array-index="8">Communication (220)</sector>
+	<sector class="active-result" data-option-array-index="9">Conflict Prevention And Resolution, Peace And Security (152)</sector>
+	<sector class="active-result" data-option-array-index="10">Construction (323)</sector>
+	<sector class="active-result" data-option-array-index="11">Developmental Food Aid/Food Security Assistance (520)</sector>
+	<sector class="active-result" data-option-array-index="12">Disaster Prevention And Preparedness (740)</sector>
+	<sector class="active-result" data-option-array-index="13">Education (110)</sector>
+	<sector class="active-result" data-option-array-index="14">Education, Level Unspecified (111)</sector>
+	<sector class="active-result" data-option-array-index="15">Emergency Response (720)</sector>
+	<sector class="active-result" data-option-array-index="16">Energy Generation And Supply (230)</sector>
+	<sector class="active-result" data-option-array-index="17">Energy Generation, Distribution And Efficiency - General (231)</sector>
+	<sector class="active-result" data-option-array-index="18">Energy Generation, Non-Renewable Sources (233)</sector>
+	<sector class="active-result" data-option-array-index="19">Energy Generation, Renewable Resources (232)</sector>
+	<sector class="active-result" data-option-array-index="20">Fishing (313)</sector>
+	<sector class="active-result" data-option-array-index="21">Forestry (312)</sector>
+	<sector class="active-result" data-option-array-index="22">General Budget Support (510)</sector>
+	<sector class="active-result" data-option-array-index="23">General Environmental Protection (410)</sector>
+	<sector class="active-result" data-option-array-index="24">Government and civil society (150)</sector>
+	<sector class="active-result" data-option-array-index="25">Government And Civil Society, General (151)</sector>
+	<sector class="active-result" data-option-array-index="26">Health (120)</sector>
+	<sector class="active-result" data-option-array-index="27">Health, General (121)</sector>
+	<sector class="active-result" data-option-array-index="28">Heating, Cooling And Energy Distribution (236)</sector>
+	<sector class="active-result" data-option-array-index="29">Humanitarian aid (700)</sector>
+	<sector class="active-result" data-option-array-index="30">Hybrid Energy Electric Power Plants (234)</sector>
+	<sector class="active-result" data-option-array-index="31">Industry (321)</sector>
+	<sector class="active-result" data-option-array-index="32">Mineral Resources And Mining (322)</sector>
+	<sector class="active-result" data-option-array-index="33">Multi-sector/General environmental protection (400)</sector>
+	<sector class="active-result" data-option-array-index="34">Noncommunicable diseases (123)</sector>
+	<sector class="active-result" data-option-array-index="35">Nuclear Energy Electric Power Plants (235)</sector>
+	<sector class="active-result" data-option-array-index="36">Other Commodity Assistance (530)</sector>
+	<sector class="active-result" data-option-array-index="37">Other Multisector (430)</sector>
+	<sector class="active-result" data-option-array-index="38">Other Social Infrastructure And Services (160)</sector>
+	<sector class="active-result" data-option-array-index="39">Population Policies/Programmes And Reproductive Health (130)</sector>
+	<sector class="active-result" data-option-array-index="40">Post-Secondary Education (114)</sector>
+	<sector class="active-result" data-option-array-index="41">Reconstruction Relief And Rehabilitation (730)</sector>
+	<sector class="active-result" data-option-array-index="42">Refugees In Donor Countries (930)</sector>
+	<sector class="active-result" data-option-array-index="43">Secondary Education (113)</sector>
+	<sector class="active-result" data-option-array-index="44">Support To Non- Governmental Organizations (Ngos) (920)</sector>
+	<sector class="active-result" data-option-array-index="45">Tourism (332)</sector>
+	<sector class="active-result" data-option-array-index="46">Trade Policy And Regulations And Trade-Related Adjustment (331)</sector>
+	<sector class="active-result" data-option-array-index="47">Transport And Storage (210)</sector>
+	<sector class="active-result" data-option-array-index="48">Unallocated/ Unspecified (998)</sector>
+	<sector class="active-result" data-option-array-index="49">Water And Sanitation (140)</sector>
+</sectors>

@@ -1,0 +1,225 @@
+<filtered_by_word_blackrock><project>
+    <projectNumber>CA-3-P011073002</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Appui holistique des défenseurs des droits de la personne en Irak, au Liban, en Syrie et en Ukraine</title>
+    <description>Ce projet vise à accroître la liberté et la sécurité des défenseurs des droits de la personne en Irak, au Liban, en Syrie et en Ukraine. Les activités du projet comprennent : 1) l’octroi de subventions pour la protection aux défenseurs des droits de la personne en danger; 2) la prestation de formation et de soutien pour aider à assurer la sécurité des défenseurs des droits de la personne, notamment en ce qui concerne les enjeux liés au cyberespace et à la sécurité personnelle; 3) l’inventaire de l’espace civique et des activités des défenseurs des droits de la personne afin d’améliorer leurs réseaux; 4) le partage d’information sur les cas de protection urgents et sur les tendances générales avec les intervenants internationaux en vue d’exercer une pression visant à accroître la protection des défenseurs des droits de la personne; 5) l’octroi des subventions d’appui institutionnel aux organismes de la société civile à risque.</description>
+    <status>Actif</status>
+    <start>2022-01-26T00:00:00</start>
+    <end>2023-12-31T00:00:00</end>
+    <countries>
+      <country>Ukraine 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Front Line, the International Foundation for the Protection of</executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Droits de la personne 100,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>798220.37</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) le renforcement de la résilience des défenseurs des droits de la personne et de leur capacité à gérer leur propre sécurité, selon une approche favorisant l’égalité des genres; 2) la défense et l’élargissement de l’espace politique et de sécurité dans lequel œuvrent les défenseurs des droits de la personne.</expectedResults>
+    <resultsAchieved />
+    <aidType>Interventions de type projet</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>S&amp;C Affaires étrangères et Commerce</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Révisé" startDate="2021-04-01T00:00:00" endDate="2022-03-31T00:00:00" valueDate="2022-01-26T00:00:00">171601.00</budget>
+      <budget budgetType="Révisé" startDate="2022-04-01T00:00:00" endDate="2023-03-31T00:00:00" valueDate="2022-01-26T00:00:00">364365.00</budget>
+      <budget budgetType="Révisé" startDate="2023-04-01T00:00:00" endDate="2024-03-31T00:00:00" valueDate="2022-01-26T00:00:00">262253.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="690790" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">49.000000  32.000000</location>
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2022200257</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0010059589" city="Blackrock                          " province="Dublin" countryCode="IE " channelCode="22000" iatiid="">Front Line, the International Foundation for the Protection of</participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P011073003</relatedActivity>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P011073001</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2022-01-26T00:00:00" valueDate="2022-01-26T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">798220.37</transaction>
+      <transaction transactionDate="2022-03-31T00:00:00" valueDate="2022-03-31T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">171601.43</transaction>
+      <transaction transactionDate="2022-10-19T00:00:00" valueDate="2022-10-19T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">224481.23</transaction>
+      <transaction transactionDate="2023-03-03T00:00:00" valueDate="2023-03-03T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">139883.81</transaction>
+      <transaction transactionDate="2023-07-28T00:00:00" valueDate="2023-07-28T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">170916.19</transaction>
+      <transaction transactionDate="2024-03-07T00:00:00" valueDate="2024-03-07T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">91337.71</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P011073003</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Protection holistique des défenseurs des droits de la personne</title>
+    <description>Ce projet vise à accroître la liberté et la sécurité des défenseurs des droits de la personne en Irak, au Liban, en Syrie, en Ukraine et en Sudan. Les activités du projet comprennent : 1) l’octroi de subventions pour la protection des défenseurs des droits de la personne en danger; 2) la prestation de formation et de soutien pour aider à assurer la sécurité des défenseurs des droits de la personne, notamment en ce qui concerne les enjeux liés au cyberespace et à la sécurité personnelle; 3) l’inventaire de l’espace civique et des activités des défenseurs des droits de la personne afin d’améliorer les réseaux qui les relient; 4) le partage d’information sur les cas de protection urgents et sur les tendances générales avec les intervenants internationaux en vue d’exercer une pression visant à accroître la protection des défenseurs des droits de la personne.</description>
+    <status>Actif</status>
+    <start>2023-06-21T00:00:00</start>
+    <end>2023-12-31T00:00:00</end>
+    <countries>
+      <country>Soudan 100,00%</country>
+    </countries>
+    <executingAgencyPartner>Front Line, the International Foundation for the Protection of</executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Droits de la personne 100,00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>816114.63</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>Les résultats escomptés de ce projet comprennent : 1) le renforcement de la résilience des défenseurs des droits de la personne et de leur capacité à gérer leur propre sécurité, selon une approche favorisant l’égalité des genres; 2) la défense et l’élargissement potentiel de l’espace politique et de sécurité dans lequel œuvrent les défenseurs des droits de la personne.</expectedResults>
+    <resultsAchieved />
+    <aidType>Interventions de type projet</aidType>
+    <collaborationType>Bilatéral</collaborationType>
+    <financeType>Don hors réorganisation de la dette (y compris quasi-dons)</financeType>
+    <flowType />
+    <reportingOrganisation>Affaires mondiales Canada</reportingOrganisation>
+    <programName>Partenariats et programmation de l'aide</programName>
+    <selectionMechanism>S&amp;C Affaires étrangères et Commerce</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Égalité entre les sexes</policyMarker>
+      <policyMarker level="0">Durabilité de l'environnement (thème transversal)</policyMarker>
+      <policyMarker level="0">Développement participatif/Bonne gouvernance</policyMarker>
+      <policyMarker level="0">Développement du commerce</policyMarker>
+      <policyMarker level="0">Biodiversité</policyMarker>
+      <policyMarker level="0">Changement climatique</policyMarker>
+      <policyMarker level="0">Adaptation au changement climatique</policyMarker>
+      <policyMarker level="0">Questions urbaines</policyMarker>
+      <policyMarker level="0">Désertification</policyMarker>
+      <policyMarker level="0">Questions touchant les enfants</policyMarker>
+      <policyMarker level="0">Questions touchant les jeunes</policyMarker>
+      <policyMarker level="0">Réduction des risques de catastrophe</policyMarker>
+      <policyMarker level="0">Questions touchant les Autochtones</policyMarker>
+      <policyMarker level="0">Questions touchant les personnes handicapées</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">Les TIC comme outils de développement</policyMarker>
+    </policyMarkers>
+    <regions />
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Révisé" startDate="2023-04-01T00:00:00" endDate="2024-03-31T00:00:00" valueDate="2023-06-21T00:00:00">656674.00</budget>
+      <budget budgetType="Révisé" startDate="2024-04-01T00:00:00" endDate="2025-03-31T00:00:00" valueDate="2023-06-21T00:00:00">159439.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="366755" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">16.000000  30.000000</location>
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="Identifiant de l’activité dans le Système de notification des pays créanciers">2023200537</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0010059589" city="Blackrock                          " province="Dublin" countryCode="IE " channelCode="22000" iatiid="">Front Line, the International Foundation for the Protection of</participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P011073002</relatedActivity>
+      <relatedActivity relatedActivityType="Fratrie">CA-3-P011073001</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2023-06-21T00:00:00" valueDate="2023-06-21T00:00:00" transactionType="Engagement" flowType="APD" tiedStatus="Sans condition">816114.63</transaction>
+      <transaction transactionDate="2023-07-11T00:00:00" valueDate="2023-07-11T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">141593.28</transaction>
+      <transaction transactionDate="2024-02-14T00:00:00" valueDate="2024-02-14T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">515081.62</transaction>
+      <transaction transactionDate="2024-09-13T00:00:00" valueDate="2024-09-13T00:00:00" transactionType="Déboursé" flowType="APD" tiedStatus="">159439.73</transaction>
+    </transactions>
+  </project>
+  <project>
+    <projectNumber>CA-3-P011073001</projectNumber>
+    <dateModified>2025-02-07T07:36:47</dateModified>
+    <title>Holistic Support for Human Rights Defenders in Iraq, Lebanon and Syria</title>
+    <description>This project aims to increase the freedom and security of human rights defenders in Iraq, Lebanon and Syria. Project activities include: (1) providing protection grants for human rights defenders at risk; (2) providing training and support to help protect the security of human rights defenders, particularly on cyber issues and personal security; (3) mapping the civic space and activities of human rights defenders to  improve the networks between them; and (4) sharing information on urgent protection cases and broader trends with international actors to lobby for protection of human rights defenders.</description>
+    <status>Terminating</status>
+    <start>2022-01-26T00:00:00</start>
+    <end>2024-05-30T00:00:00</end>
+    <countries>
+      <country>Ukraine 0.00%</country>
+      <country>Sudan 0.00%</country>
+    </countries>
+    <executingAgencyPartner>Front Line, the International Foundation for the Protection of</executingAgencyPartner>
+    <DACSectors>
+      <DACSectors>Human rights 100.00%</DACSectors>
+    </DACSectors>
+    <maximumContribution>338048.00</maximumContribution>
+    <ContributingOrganization />
+    <expectedResults>The expected outcomes for this project include: (1) human rights defenders have strengthened resilience and ability to manage their security, supported by a gender-sensitive approach; and (2) the political and security space in which human rights defenders operate is defended and potentially expanded.</expectedResults>
+    <resultsAchieved />
+    <aidType>Project-type interventions</aidType>
+    <collaborationType>Bilateral</collaborationType>
+    <financeType>Aid grant excluding debt reorganisation</financeType>
+    <flowType />
+    <reportingOrganisation>Global Affairs Canada</reportingOrganisation>
+    <programName>International Assistance Partnerships an</programName>
+    <selectionMechanism>Foreign Affairs and Trade Gs&amp;Cs</selectionMechanism>
+    <policyMarkers>
+      <policyMarker level="1">Gender equality</policyMarker>
+      <policyMarker level="0">Environmental sustainability (cross-cutting)</policyMarker>
+      <policyMarker level="0">Participatory development and good governance</policyMarker>
+      <policyMarker level="0">Trade development</policyMarker>
+      <policyMarker level="0">Biodiversity</policyMarker>
+      <policyMarker level="0">Climate change mitigation</policyMarker>
+      <policyMarker level="0">Climate Change Adaptation</policyMarker>
+      <policyMarker level="0">Urban issues</policyMarker>
+      <policyMarker level="0">Desertification</policyMarker>
+      <policyMarker level="0">Children's issues</policyMarker>
+      <policyMarker level="0">Youth Issues</policyMarker>
+      <policyMarker level="0">Disaster Risk Reduction(DRR)</policyMarker>
+      <policyMarker level="0">Indigenous Issues</policyMarker>
+      <policyMarker level="0">Disability</policyMarker>
+      <policyMarker level="0">Nutrition</policyMarker>
+      <policyMarker level="0">ICT as a tool for development</policyMarker>
+    </policyMarkers>
+    <regions>
+      <region>Middle East, regional</region>
+    </regions>
+    <alternameImPositions />
+    <budgets>
+      <budget budgetType="Original" startDate="2021-04-01T00:00:00" endDate="2022-03-31T00:00:00" valueDate="2022-01-26T00:00:00">130874.00</budget>
+      <budget budgetType="Original" startDate="2022-04-01T00:00:00" endDate="2023-03-31T00:00:00" valueDate="2022-01-26T00:00:00">174498.00</budget>
+      <budget budgetType="Original" startDate="2023-04-01T00:00:00" endDate="2024-03-31T00:00:00" valueDate="2022-01-26T00:00:00">43625.00</budget>
+    </budgets>
+    <Locations>
+      <location geoName="163843" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">35.000000  38.000000</location>
+      <location geoName="272103" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">33.500000  35.500000</location>
+      <location geoName="99237" SRSName="http://www.opengis.net/def/crs/EPSG/0/4326">33.000000  44.000000</location>
+    </Locations>
+    <otherIdentifiers>
+      <otherIdentifier otherIdentifierType="CRS Activity identifier">2021200972</otherIdentifier>
+    </otherIdentifiers>
+    <participatingOrgs>
+      <participatingOrg number="0010059589" city="Blackrock                          " province="Dublin" countryCode="IE " channelCode="22000" iatiid="">Front Line, the International Foundation for the Protection of</participatingOrg>
+    </participatingOrgs>
+    <programDataStructure />
+    <relatedActivities>
+      <relatedActivity relatedActivityType="Sibling">CA-3-P011073003</relatedActivity>
+      <relatedActivity relatedActivityType="Sibling">CA-3-P011073002</relatedActivity>
+    </relatedActivities>
+    <transactions>
+      <transaction transactionDate="2022-01-26T00:00:00" valueDate="2022-01-26T00:00:00" transactionType="Commitment" flowType="ODA" tiedStatus="Untied">338048.00</transaction>
+      <transaction transactionDate="2022-01-31T00:00:00" valueDate="2022-01-31T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">65212.10</transaction>
+      <transaction transactionDate="2022-04-07T00:00:00" valueDate="2022-04-07T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">40498.25</transaction>
+      <transaction transactionDate="2023-02-15T00:00:00" valueDate="2023-02-15T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">121494.74</transaction>
+      <transaction transactionDate="2024-02-16T00:00:00" valueDate="2024-02-16T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">86624.91</transaction>
+      <transaction transactionDate="2024-06-10T00:00:00" valueDate="2024-06-10T00:00:00" transactionType="Disbursement" flowType="ODA" tiedStatus="">24218.00</transaction>
+    </transactions>
+  </project>
+  </filtered_by_word_blackrock>
