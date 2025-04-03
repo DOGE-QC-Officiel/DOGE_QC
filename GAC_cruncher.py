@@ -7,7 +7,7 @@ from docx.shared import Inches
 from pathvalidate import sanitize_filename
 
 #################################################################
-#                   DATA PREPARATION SECTION
+#                   DATA PREPARATION SECTION louwy
 #################################################################
 
 #represent all active projects in ukraine
@@ -132,6 +132,12 @@ def nbTransactions(project_list, include_promises, include_0):
 #returns the xml element as a readable string
 def getXMLString(xml_element):
     return ET.tostring(xml_element, encoding='unicode')
+
+def getXMLFromProjectList(project_obj_list, root_name="filtered_projects"):
+    root = ET.Element(root_name)
+    for proj in project_obj_list:
+        root.append(proj.xml_)
+    return root
 
 #print some project information 
 def outputProjectDescription(project, country_contrib_str, output_func):
@@ -306,6 +312,9 @@ def generateDocxForProject(GAC_proj, result_file_path):
     document.add_page_break()
     document.save(result_file_path + "/" + sanitize_filename(GAC_proj.title_ + ".docx"))
 
+
+
+
 #################################################################
 #                  CUSTOM CLASSES FOR DATA HANDLING
 #################################################################
@@ -462,6 +471,25 @@ class GAC_ProjectList:
         self.projects_ = [GAC_Project(project) for project in project_list_xml.findall("project")]
         self.stats_ = getProjectsStats(project_list_xml, '')
 
+    def findByKeyword(self, keyword, include_0_projects=False):
+        found_projects = []
+
+        for project in self.projects_:
+            if not include_0_projects and project.getTransactionsTotal() == 0:
+                continue
+            if keyword == '':
+                found_projects.append(project)
+                continue
+            if keyword.lower() in project.description_.lower():
+                found_projects.append(project)
+                continue
+            if keyword.lower() in project.title_.lower():
+                found_projects.append(project)
+                continue
+        
+        return found_projects
+
+
 
 #################################################################
 #                  MAIN SCRIPT SECTION
@@ -488,7 +516,8 @@ if __name__ == '__main__':
     COUNTRY = ''
     KEYWORD = 'aga khan'
 
-    all_found_projects = findProjectsByKeyWord(all_projects_no_duplicate, KEYWORD, False)
+    all_found_projects = gac_proj_list.findByKeyword(KEYWORD, include_0_projects=False)
+    all_found_projects_xml = getXMLFromProjectList(all_found_projects)
     stats = getProjectsStats(all_found_projects, COUNTRY)
 
     directory_name = KEYWORD
@@ -517,7 +546,7 @@ if __name__ == '__main__':
     COUNTRY = 'Ukraine'
     KEYWORD = 'Ukraine'
 
-    all_found_projects = findProjectsByKeyWord(all_projects_no_duplicate, KEYWORD, False)
+    all_found_projects = gac_proj_list.findByKeyword(KEYWORD, include_0_projects=False)
     stats = getProjectsStats(all_found_projects, COUNTRY)
 
     directory_name = KEYWORD
